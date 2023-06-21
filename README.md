@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋, I'm Shahin Ali
 #### Web Developer
 ![Web Developer](https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/269742481_3034162003567631_4934063385065357157_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=BNXHCPDLtroAX_fIN0E&_nc_ht=scontent.frjh1-1.fna&oh=00_AfAcGA9YqtRYeAvYotYPzMpOpiMGGrmmc-ZCqYPConPU3A&oe=6496D70B)
