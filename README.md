@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Shahin Ali
-#### Web Developer
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 👋 Hello there! I'm Shahin Ali, a passionate frontend web developer with a love for creating engaging and interactive user experiences. I thrive on turning ideas into functional and visually appealing websites that leave a lasting impression.
 
