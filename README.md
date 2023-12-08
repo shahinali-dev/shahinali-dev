@@ -4,6 +4,8 @@
 
 ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=radical)
+
 
 
 - 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
