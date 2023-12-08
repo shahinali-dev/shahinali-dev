@@ -8,11 +8,6 @@ Proficient in MongoDB, Express.js, React, and Node.js,
 adept at delivering scalable and user-centric solutions.</p>
 
 
-
-
-![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
-
-
 - 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
 
 - 🌱 I’m currently learning **Next Js**
@@ -24,6 +19,10 @@ adept at delivering scalable and user-centric solutions.</p>
 - 💬 Ask me about **React, Js, Bootstrap, Tailwind, Node,Express, MongoDB**
 
 - 📫 How to reach me **shahinalomshuvo94@gmail.com**
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahinAlomShuvo&theme=merko)](https://git.io/streak-stats)
+
+  ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
