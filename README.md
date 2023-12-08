@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mrshahin.netlify.app/](https://mrshahin.netlify.app/)
 
-- 💬 Ask me about **React,Js,Bootstrap,Tailwind,Node,Express,MongoDB**
+- 💬 Ask me about **React, Js, Bootstrap, Tailwind, Node,Express, MongoDB**
 
 - 📫 How to reach me **shahinalomshuvo94@gmail.com**
 
