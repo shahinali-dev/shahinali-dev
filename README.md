@@ -2,7 +2,10 @@
 
 
 <h1 align="center">Hi there 👋, I'm Shahin Ali</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Dedicated and detail-oriented MERN Stack Developer,
+passionate about creating innovative applications.
+Proficient in MongoDB, Express.js, React, and Node.js,
+adept at delivering scalable and user-centric solutions.</h3>
 
 
 
