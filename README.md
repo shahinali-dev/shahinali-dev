@@ -9,7 +9,7 @@
 
 ![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=dracula&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards)
 
-(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahinAlomShuvo&theme=dracula)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahinAlomShuvo&theme=dracula)
 
 
 
