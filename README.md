@@ -24,7 +24,7 @@ adept at delivering scalable and user-centric solutions.</p>
 
   ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark" alt="Shahin Ali GitHub stats" width="100%">
+
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
