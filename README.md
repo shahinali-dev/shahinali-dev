@@ -13,23 +13,6 @@ adept at delivering scalable and user-centric solutions.</p>
 ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=dracula&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards" alt="Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahinAlomShuvo&theme=dracula" alt="Stats" />
-</div>
-
-
-
-
-<p align="center">
-  <a href="#Skills">
-    <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,html,css,tailwind,bootstrap" />
-  </a>
-</p>
-
-
-
-
 - 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
 
 - 🌱 I’m currently learning **Next Js**
@@ -47,4 +30,12 @@ adept at delivering scalable and user-centric solutions.</p>
 <a href="https://twitter.com/shahinali00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahinali00" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahin-ali00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahin-ali00" height="30" width="40" /></a>
 <a href="https://fb.com/shahinbunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahinbunny" height="30" width="40" /></a>
+</p>
+
+- <h3 align="left">Technology and tools:</h3>
+
+<p align="center">
+  <a href="#Skills">
+    <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,html,css,tailwind,bootstrap" />
+  </a>
 </p>
