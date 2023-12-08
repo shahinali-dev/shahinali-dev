@@ -2,10 +2,10 @@
 
 
 <h1 align="center">Hi there 👋, I'm Shahin Ali</h1>
-<h3 align="center">Dedicated and detail-oriented MERN Stack Developer,
+<p align="center">Dedicated and detail-oriented MERN Stack Developer,
 passionate about creating innovative applications.
 Proficient in MongoDB, Express.js, React, and Node.js,
-adept at delivering scalable and user-centric solutions.</h3>
+adept at delivering scalable and user-centric solutions.</p>
 
 
 
