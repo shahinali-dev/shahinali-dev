@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=radical)
+
+![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
 
 
