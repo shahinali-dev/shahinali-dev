@@ -20,8 +20,8 @@ adept at delivering scalable and user-centric solutions.</p>
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,tailwind,git,css,bootstrap" />
+  <a href="#Skills">
+    <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,html,css,tailwind,bootstrap" />
   </a>
 </p>
 
