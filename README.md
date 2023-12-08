@@ -34,7 +34,7 @@ adept at delivering scalable and user-centric solutions.</p>
 
 - <h3 align="left">Technology and tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="#Skills">
     <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,html,css,tailwind,bootstrap" />
   </a>
