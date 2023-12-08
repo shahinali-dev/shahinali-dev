@@ -4,15 +4,15 @@
 
 
 
-- 🔭 I’m currently working on [RactProject](https://mrshahin.netlify.app/)
+- 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/ShahinAlomShuvo)
 
 - 👨‍💻 All of my projects are available at [https://mrshahin.netlify.app/](https://mrshahin.netlify.app/)
 
-- 💬 Ask me about **React,Js,Bootstrap,Tailwind**
+- 💬 Ask me about **React,Js,Bootstrap,Tailwind,Node,Express,MongoDB**
 
 - 📫 How to reach me **shahinalomshuvo94@gmail.com**
 
