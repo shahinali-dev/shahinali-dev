@@ -1,4 +1,5 @@
-![Shahin Ali Banner!]([/assets/images/san-juan-mountains.jpg](https://raw.githubusercontent.com/ShahinAlomShuvo/ShahinAlomShuvo/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.jpg) "Shahin Ali")
+![Shahin Ali Banner](https://raw.githubusercontent.com/ShahinAlomShuvo/ShahinAlomShuvo/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.jpg "Shahin Ali")
+
 
 <h1 align="center">Hi there 👋, I'm Shahin Ali</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
