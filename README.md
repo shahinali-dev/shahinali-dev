@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 
 
 - 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
