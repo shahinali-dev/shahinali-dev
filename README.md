@@ -24,6 +24,8 @@ adept at delivering scalable and user-centric solutions.</p>
 
   ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark" alt="Shahin Ali GitHub stats" width="100%">
+
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahinali00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahinali00" height="30" width="40" /></a>
