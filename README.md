@@ -36,6 +36,6 @@ adept at delivering scalable and user-centric solutions.</p>
 
 <p align="left">
   <a href="#Skills">
-    <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,git,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,express,html,css,tailwind,bootstrap,git,github,vite,vscode,figma" />
   </a>
 </p>
