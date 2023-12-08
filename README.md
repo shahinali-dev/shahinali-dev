@@ -12,9 +12,7 @@
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahinAlomShuvo&theme=dracula)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShahinAlomShuvo/langs)](https://githubtrends.io)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 
 
