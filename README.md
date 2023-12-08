@@ -7,7 +7,7 @@
 ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=github_dark&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=github_dark&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards)
 
 
 
