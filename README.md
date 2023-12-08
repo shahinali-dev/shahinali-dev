@@ -14,6 +14,8 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ShahinAlomShuvo/langs)](https://githubtrends.io)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 
 - 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
 
