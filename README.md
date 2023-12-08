@@ -7,6 +7,8 @@
 ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={ShahinAlomShuvo}&theme={github_dark}&exclude={exclude}
+
 
 - 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
 
