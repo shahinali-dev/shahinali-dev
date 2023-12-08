@@ -16,7 +16,7 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=github_dark&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards)
+
 
 
 
