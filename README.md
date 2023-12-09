@@ -33,7 +33,23 @@ adept at delivering scalable and user-centric solutions.</p>
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahinAlomShuvo&theme=dracula&utcOffset=5)
 
 
+### Projects Showcase
 
+#### Contest-Hub | Contest Management Website
+- **Live Site:** [Contest-Hub Live Site](https://contesthub-e5119.web.app)
+- **Technology Used:** React, Express, MongoDB, Node, Stripe, JWT, Firebase
+- **Key Features:**
+  - Developed role-specific functionalities for Admins, Creators, and Users, enabling seamless contest creation, approval, and participation.
+  - Implemented Stripe for secure payment transactions, enhancing user experience during contest registration.
+  - End-to-end system enabling seamless contest creation, submission review, and winner declaration for creators.
+
+#### Dish Dynamo | E-Commerce Website
+- **Live Site:** [Dish Dynamo Live Site](https://dishdynamo-c649f.web.app)
+- **Technology Used:** React, Express, MongoDB, Node, JWT, Firebase
+- **Key Features:**
+  - Engineered a seamless menu interface for easy browsing, addition, and editing of food items, ensuring user-friendly navigation.
+  - Implemented a smooth purchase page for hassle-free transactions, enhancing the ordering experience with clear alerts.
+  - Crafted an engaging website layout prioritizing user satisfaction, featuring a dynamic homepage and intuitive navigation elements.
 
 
 - <h3 align="left">Connect with me:</h3>
