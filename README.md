@@ -15,7 +15,7 @@ adept at delivering scalable and user-centric solutions.</p>
 
 - 🔭 I’m currently working on [ReactProject](https://mrshahin.netlify.app/)
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning  [Next Js](https://nextjs.org/)
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/ShahinAlomShuvo)
 
