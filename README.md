@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Shahin Ali</h1>
-![](https://komarev.com/ghpvc/?username=ShahinAlomShuvo&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ShahinAlomShuvo&color=blueviolet&style=flat-square)
 <p align="center">Dedicated and detail-oriented MERN Stack Developer,
 passionate about creating innovative applications.
 Proficient in MongoDB, Express.js, React, and Node.js,
