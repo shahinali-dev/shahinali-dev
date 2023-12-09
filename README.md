@@ -1,8 +1,8 @@
 ![Shahin Ali Banner](https://raw.githubusercontent.com/ShahinAlomShuvo/ShahinAlomShuvo/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.jpg "Shahin Ali")
 
 
-<h1 align="center">Hi there 👋, I'm Shahin Ali</h1>
 ![Profile Views](https://komarev.com/ghpvc/?username=ShahinAlomShuvo&color=blueviolet&style=flat-square)
+<h1 align="center">Hi there 👋, I'm Shahin Ali</h1>
 
 <p align="center">Dedicated and detail-oriented MERN Stack Developer,
 passionate about creating innovative applications.
