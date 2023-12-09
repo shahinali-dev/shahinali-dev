@@ -29,7 +29,7 @@ adept at delivering scalable and user-centric solutions.</p>
 
   ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
-![Commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahinAlomShuvo&theme=default&utcOffset=+05:30)
+![Commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahinAlomShuvo&theme=dark&utcOffset=+05:30)
 
 
 - <h3 align="left">Connect with me:</h3>
