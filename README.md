@@ -19,7 +19,7 @@ adept at delivering scalable and user-centric solutions.</p>
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/ShahinAlomShuvo)
 
-- 👨‍💻 All of my projects are available at [https://mrshahin.netlify.app/](https://mrshahin.netlify.app/)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/ShahinAlomShuvo?tab=repositories)
 
 - 💬 Ask me about **React, Js, Bootstrap, Tailwind, Node,Express, MongoDB**
 
