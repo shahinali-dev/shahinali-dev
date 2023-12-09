@@ -29,8 +29,7 @@ adept at delivering scalable and user-centric solutions.</p>
 
   ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
 
-![Commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahinAlomShuvo&theme=dark&utcOffset=+05:30)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahinAlomShuvo&theme=default)
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=dracula&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahinAlomShuvo&theme=dracula&utcOffset=5)
 
 
