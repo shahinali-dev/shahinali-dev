@@ -51,6 +51,17 @@ adept at delivering scalable and user-centric solutions.</p>
   - Implemented a smooth purchase page for hassle-free transactions, enhancing the ordering experience with clear alerts.
   - Crafted an engaging website layout prioritizing user satisfaction, featuring a dynamic homepage and intuitive navigation elements.
 
+#### YogaFusion | Yoga and Wellness Platform
+- **Project URL:** [YogaFusion](https://yogafusion-4a06d.web.app/)
+- **Technology Used:** React, Express, MongoDB, Node, JWT, Firebase
+- **Key Features:**
+  - Offering users various yoga classes, events, workshops, and wellness services.
+  - Organizing and promoting yoga events and workshops with detailed schedules and locations.
+  - Browse and purchase a wide range of yoga-related products across different categories.
+  - Explore a collection of videos, including promotional and instructional content related to yoga and wellness.
+  - Users can register or log in to the site to join events or access services.
+
+
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
