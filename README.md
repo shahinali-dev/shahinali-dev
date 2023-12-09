@@ -31,6 +31,7 @@ adept at delivering scalable and user-centric solutions.</p>
 
 ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahinAlomShuvo&theme=dark&utcOffset=+05:30)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahinAlomShuvo&theme=default)
+![Most Committed Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahinAlomShuvo&theme=default&exclude=JavaScript,HTML)
 
 
 - <h3 align="left">Connect with me:</h3>
