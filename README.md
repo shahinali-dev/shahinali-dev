@@ -34,11 +34,6 @@ adept at delivering scalable and user-centric solutions.</p>
 
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=dracula&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards" alt="Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahinAlomShuvo&theme=dracula" alt="Stats" />
-</div>
-
 
 
 - <h3 align="left">Connect with me:</h3>
