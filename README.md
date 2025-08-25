@@ -17,22 +17,22 @@ adept at delivering scalable and user-centric solutions.</p>
 
 - 🌱 I’m currently learning  [Next Js](https://nextjs.org/)
 
-- 👯 I’m looking to collaborate on [GitHub](https://github.com/ShahinAlomShuvo)
+- 👯 I’m looking to collaborate on [GitHub](https://github.com/shahinali-dev)
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/ShahinAlomShuvo?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/shahinali-dev?tab=repositories)
 
 - 💬 Ask me about **React, Js, Bootstrap, Tailwind, Node,Express, MongoDB**
 
 - 📫 How to reach me **shahinalomshuvo94@gmail.com**
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShahinAlomShuvo&theme=merko)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahinali-dev&theme=merko)](https://git.io/streak-stats)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ShahinAlomShuvo&theme=highcontrast)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=shahinali-dev&theme=highcontrast)](https://git.io/streak-stats)
 
-  ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahinAlomShuvo&show_icons=true&theme=dark)
+  ![Shahin Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinali-dev&show_icons=true&theme=dark)
 
-![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahinAlomShuvo&theme=dracula&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahinAlomShuvo&theme=dracula&utcOffset=5)
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahinali-dev&theme=dracula&exclude=&hide_border=true&langs_count=10&exclude_repo=github-profile-summary-cards)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahinali-dev&theme=dracula&utcOffset=5)
 
 
 ### Projects Showcase
